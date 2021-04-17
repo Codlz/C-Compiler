@@ -1,0 +1,7 @@
+<Number, 1.000000>
+<Number, 1.000000>
+<Number, 2.000000>
+<Number, 2.000000>
+<Number, 1.050000>
+<Number, 0.000000>
+<Number, 0.000000>
